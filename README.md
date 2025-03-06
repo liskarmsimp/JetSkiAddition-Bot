@@ -1,0 +1,1 @@
+A program that utilizes EasyOCR to play the browser Jet Ski Addition at superhuman speeds. This was played and tested on [arcademics](https://www.arcademics.com/games/jet-ski), but there is no reason it shouldn't work on other sites with the same game. In the first few lines you should readjust the dimensions of the boxes it will check for numbers in.
